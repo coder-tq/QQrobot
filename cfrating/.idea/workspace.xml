@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Ct:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0eaab487-b6de-4282-818c-e931250a2c9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YhMUkGLJ0Y2Uiv5suDg0EZoxqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JAR 应用程序.slf4j-api-1.7.25.jar">
+    <configuration name="cfrating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.cqp.weiliang.cfrating" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.cqp.weiliang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wk.ct" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xlqct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.weiliang.xlqct" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.weiliang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="slf4j-api-1.7.25.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slf4j-nop-1.7.25.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/slf4j-nop-1.7.25.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR 应用程序.slf4j-api-1.7.25.jar" />
+      <item itemvalue="JAR 应用程序.slf4j-nop-1.7.25.jar" />
+      <item itemvalue="应用程序.cfrating" />
+      <item itemvalue="应用程序.ct" />
+      <item itemvalue="应用程序.xlqct" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eaab487-b6de-4282-818c-e931250a2c9d" name="Default Changelist" comment="" />
+      <created>1583390390458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583390390458</updated>
+      <workItem from="1583390391731" duration="10252000" />
+      <workItem from="1583404402496" duration="3386000" />
+      <workItem from="1583411186363" duration="829000" />
+      <workItem from="1583414917191" duration="726000" />
+      <workItem from="1583417009840" duration="3588000" />
+      <workItem from="1583458188129" duration="8559000" />
+      <workItem from="1583471198691" duration="4684000" />
+      <workItem from="1583492226687" duration="3698000" />
+      <workItem from="1583551266225" duration="1885000" />
+      <workItem from="1583554030017" duration="31000" />
+      <workItem from="1583555166616" duration="2384000" />
+      <workItem from="1583562161497" duration="34000" />
+      <workItem from="1583574345206" duration="1976000" />
+      <workItem from="1583576343468" duration="2541000" />
+      <workItem from="1583579568536" duration="160000" />
+      <workItem from="1583589581682" duration="668000" />
+      <workItem from="1583748879195" duration="2689000" />
+      <workItem from="1583808571452" duration="30000" />
+      <workItem from="1583809947612" duration="7970000" />
+      <workItem from="1583822597904" duration="4405000" />
+      <workItem from="1583828113842" duration="393000" />
+      <workItem from="1583831470256" duration="242000" />
+      <workItem from="1583845785355" duration="296000" />
+      <workItem from="1583897078295" duration="1203000" />
+      <workItem from="1583977307466" duration="267000" />
+      <workItem from="1583978481146" duration="1459000" />
+      <workItem from="1583983994026" duration="3925000" />
+      <workItem from="1584104774658" duration="5436000" />
+      <workItem from="1584258350239" duration="6973000" />
+      <workItem from="1584536448430" duration="1000000" />
+      <workItem from="1584537773860" duration="3000000" />
+      <workItem from="1584757664144" duration="1969000" />
+      <workItem from="1584759669764" duration="6340000" />
+      <workItem from="1584772933255" duration="39000" />
+      <workItem from="1584796689110" duration="93000" />
+      <workItem from="1584799650347" duration="3005000" />
+      <workItem from="1584804841123" duration="70000" />
+      <workItem from="1584843488733" duration="467000" />
+      <workItem from="1584847644467" duration="1306000" />
+      <workItem from="1584849036049" duration="182000" />
+      <workItem from="1584849885901" duration="955000" />
+      <workItem from="1584927241521" duration="985000" />
+      <workItem from="1584928503421" duration="1797000" />
+      <workItem from="1584966217701" duration="2194000" />
+      <workItem from="1585034126160" duration="285000" />
+      <workItem from="1585056861714" duration="1177000" />
+      <workItem from="1585293860425" duration="1037000" />
+      <workItem from="1585457651108" duration="633000" />
+      <workItem from="1585797544103" duration="72000" />
+      <workItem from="1586395070713" duration="1053000" />
+      <workItem from="1586396167731" duration="2500000" />
+      <workItem from="1586399064890" duration="218000" />
+      <workItem from="1586399433812" duration="90000" />
+      <workItem from="1586399613283" duration="186000" />
+      <workItem from="1586708735424" duration="20000" />
+      <workItem from="1586957429197" duration="2349000" />
+      <workItem from="1587134658276" duration="10000" />
+      <workItem from="1595389242005" duration="489000" />
+      <workItem from="1595814347998" duration="233000" />
+      <workItem from="1596808773133" duration="54000" />
+      <workItem from="1596808838473" duration="85000" />
+      <workItem from="1596808936236" duration="1614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1595389280858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595389280858" />
+    <state x="490" y="180" key="new project wizard" timestamp="1595814578946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595814578946" />
+  </component>
+</project>
